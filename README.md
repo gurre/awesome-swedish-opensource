@@ -16,11 +16,13 @@
 - [SweetAlert](https://github.com/t4t5/sweetalert) ★13,799
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) ★11,560
 - [Ladda](https://github.com/hakimel/Ladda) ★6,379
+- [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
 
-### Coffeescript
-- [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
+### Go
+ - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
 
 ### Ruby
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
@@ -33,6 +35,9 @@
 
 ### C++
 - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
+
+### Python
+ - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
 ### Contribute
 Make a pull request and add your link.
