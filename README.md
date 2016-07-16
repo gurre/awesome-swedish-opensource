@@ -8,9 +8,9 @@
 
 > A curated list of awesome open-source software from Sweden
 
-## Awesome Swedish open-source software
+# Awesome Swedish open-source software
 
-### Javascript
+## Javascript
 
 - [Reveal.js](https://github.com/hakimel/reveal.js) ★29,259
 - [SweetAlert](https://github.com/t4t5/sweetalert) ★13,799
@@ -21,23 +21,23 @@
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
 
-### Go
+## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
 
-### Ruby
+## Ruby
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
 
-### Erlang
+## Erlang
 - [LFE](https://github.com/rvirding/lfe) ★1,296
 
-### C
+## C
 - [Curl](https://github.com/curl/curl) ★3,267
 
-### C++
+## C++
 - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
 
-### Python
+## Python
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
-### Contribute
+## Contribute
 Make a pull request and add your link.
