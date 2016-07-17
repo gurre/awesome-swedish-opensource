@@ -23,6 +23,7 @@
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
 
 ## Java
+ - [Neo4j](https://github.com/neo4j/neo4j) ★2,797
  - [REST-assured](https://github.com/rest-assured/rest-assured) ★1,268
  - [PowerMock](https://github.com/jayway/powermock) ★706
  - [Speedment](https://github.com/speedment/speedment) ★556
