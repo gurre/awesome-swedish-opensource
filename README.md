@@ -5,7 +5,7 @@
 	<br>
 	<br>
 </h1>
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome open-source software from Sweden
 
 # Awesome Swedish open-source software
@@ -20,6 +20,9 @@
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
+
+## Java
+ - [Speedment](https://github.com/speedment/speedment) ★556
 
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
