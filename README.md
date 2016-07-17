@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://cdn.rawgit.com/gurre/awesome-swedish-opensource/master/media/Flag_of_Sweden.svg" alt="awesome sweden">
+	<img width="200" src="https://cdn.rawgit.com/gurre/awesome-swedish-opensource/master/media/Flag_of_Sweden.svg" alt="awesome sweden">
 	<br>
 	<br>
 	<br>
