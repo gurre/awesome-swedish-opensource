@@ -40,9 +40,11 @@
 
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
+ - [Jason](https://github.com/antonholmquist/jason) ★897
 
 ## Ruby
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
+- [Pundit](https://github.com/elabs/pundit) ★4,428
 
 ## Haskell
 - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
@@ -55,6 +57,7 @@
 - [Curl](https://github.com/curl/curl) ★3,267
 - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
 - [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
+- [FreeBSD](http://cvsweb.openbsd.org/) ★n/a
 
 ## C++
 - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
@@ -64,6 +67,9 @@
 ## Python
  - [Locust](https://github.com/locustio/locust) ★3,766
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
+
+## Rust
+ - [Rustful](https://github.com/Ogeon/rustful) ★752
 
 ## Contribute
 Fork, Branch, Pull and 🍺.
