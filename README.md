@@ -6,7 +6,6 @@
 	<br>
 </h1>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome open-source software from Sweden
 
 # Awesome Swedish open-source software
 
@@ -15,6 +14,8 @@
 - [Reveal.js](https://github.com/hakimel/reveal.js) ★29,259
 - [SweetAlert](https://github.com/t4t5/sweetalert) ★13,799
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) ★11,560
+- [Grafana](https://github.com/grafana/grafana) ★10,812
+- [List.js](https://github.com/javve/list.js) ★6,911
 - [Ladda](https://github.com/hakimel/Ladda) ★6,379
 - [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
@@ -43,4 +44,4 @@
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
 ## Contribute
-Make a pull request and add your link.
+Fork, Branch, Pull and 🍺.
