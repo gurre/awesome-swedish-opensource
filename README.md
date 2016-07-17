@@ -29,12 +29,14 @@
  - [PowerMock](https://github.com/jayway/powermock) ★706
  - [Speedment](https://github.com/speedment/speedment) ★556
  - [Awaitility](https://github.com/awaitility/awaitility) ★350
+ - [Artemis-odb](https://github.com/junkdog/artemis-odb) ★265
 
 ## Scala
  - [Akka](https://github.com/akka/akka) ★5,769
 
 ## C#  
  - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
+ - [Cake](https://github.com/cake-build/cake/) ★678
 
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
@@ -52,6 +54,7 @@
 ## C
 - [Curl](https://github.com/curl/curl) ★3,267
 - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
+- [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
 
 ## C++
 - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
@@ -59,6 +62,7 @@
 - [MariaDB](https://github.com/MariaDB/server) ★917
 
 ## Python
+ - [Locust](https://github.com/locustio/locust) ★3,766
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
 ## Contribute
