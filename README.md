@@ -7,7 +7,7 @@
 </h1>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Swedish open-source software
+# Awesome, Swedish and Open-source
 
 ## Javascript
 
@@ -17,6 +17,7 @@
 - [Grafana](https://github.com/grafana/grafana) ★10,812
 - [List.js](https://github.com/javve/list.js) ★6,911
 - [Ladda](https://github.com/hakimel/Ladda) ★6,379
+- [RefluxJS](https://github.com/reflux/refluxjs) ★4,888
 - [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
@@ -32,11 +33,17 @@
 ## Scala
  - [Akka](https://github.com/akka/akka) ★5,769
 
+## C#
+ - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
+
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
 
 ## Ruby
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
+
+## Haskell
+- [QuickCheck](https://github.com/nick8325/quickcheck) ★212
 
 ## Erlang
 - [Erlang](https://github.com/erlang/otp) ★4,735
