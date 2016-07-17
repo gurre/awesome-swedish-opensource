@@ -23,7 +23,13 @@
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
 
 ## Java
+ - [REST-assured](https://github.com/rest-assured/rest-assured) ★1,268
+ - [PowerMock](https://github.com/jayway/powermock) ★706
  - [Speedment](https://github.com/speedment/speedment) ★556
+ - [Awaitility](https://github.com/awaitility/awaitility) ★350
+
+## Scala
+ - [Akka](https://github.com/akka/akka) ★5,769
 
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
@@ -32,13 +38,17 @@
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
 
 ## Erlang
+- [Erlang](https://github.com/erlang/otp) ★4,735
 - [LFE](https://github.com/rvirding/lfe) ★1,296
 
 ## C
 - [Curl](https://github.com/curl/curl) ★3,267
+- [esp-lisp](https://github.com/yesco/esp-lisp) ★55
 
 ## C++
 - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
+- [MySQL](https://github.com/mysql/mysql-server) ★1,091
+- [MariaDB](https://github.com/MariaDB/server) ★917
 
 ## Python
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
