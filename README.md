@@ -32,8 +32,16 @@
  - [Awaitility](https://github.com/awaitility/awaitility) ★350
  - [Artemis-odb](https://github.com/junkdog/artemis-odb) ★265
 
-## Scala
- - [Akka](https://github.com/akka/akka) ★5,769
+## C++
+ - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
+ - [MySQL](https://github.com/mysql/mysql-server) ★1,091
+ - [MariaDB](https://github.com/MariaDB/server) ★917
+ - [BROCCOLI](https://github.com/wanderine/BROCCOLI) ★59
+
+## C
+ - [Curl](https://github.com/curl/curl) ★3,267
+ - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
+ - [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
 
 ## C#  
  - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
@@ -47,23 +55,9 @@
 - [Capybara](https://github.com/jnicklas/capybara) ★7,159
 - [Pundit](https://github.com/elabs/pundit) ★4,428
 
-## Haskell
-- [QuickCheck](https://github.com/nick8325/quickcheck) ★212
-
 ## Erlang
 - [Erlang](https://github.com/erlang/otp) ★4,735
 - [LFE](https://github.com/rvirding/lfe) ★1,296
-
-## C
-- [Curl](https://github.com/curl/curl) ★3,267
-- [esp-lisp](https://github.com/yesco/esp-lisp) ★55
-- [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
-
-## C++
-- [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
-- [MySQL](https://github.com/mysql/mysql-server) ★1,091
-- [MariaDB](https://github.com/MariaDB/server) ★917
-- [BROCCOLI](https://github.com/wanderine/BROCCOLI) ★59
 
 ## Python
  - [Locust](https://github.com/locustio/locust) ★3,766
@@ -71,6 +65,12 @@
 
 ## Rust
  - [Rustful](https://github.com/Ogeon/rustful) ★752
+
+## Scala
+ - [Akka](https://github.com/akka/akka) ★5,769
+
+## Haskell
+ - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
 
 ## Contribute
 Fork, Branch, Pull and 🍺.
