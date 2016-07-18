@@ -18,6 +18,7 @@
 - [List.js](https://github.com/javve/list.js) ★6,911
 - [Ladda](https://github.com/hakimel/Ladda) ★6,379
 - [RefluxJS](https://github.com/reflux/refluxjs) ★4,888
+- [snabbt.js](https://github.com/daniel-lundin/snabbt.js) ★4,803
 - [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
