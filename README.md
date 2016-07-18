@@ -46,6 +46,7 @@
 ## C#  
  - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
  - [Cake](https://github.com/cake-build/cake/) ★678
+ - [OrigoDB](https://github.com/devrexlabs/origodb) ★81
 
 ## Go
  - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
