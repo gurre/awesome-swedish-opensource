@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="200" src="https://cdn.rawgit.com/gurre/awesome-swedish-opensource/master/media/Flag_of_Sweden.svg" alt="awesome sweden">
+	<img width="250" src="https://cdn.rawgit.com/gurre/awesome-swedish-opensource/master/media/Flag_of_Sweden.svg" alt="awesome sweden">
 	<br>
 	<br>
 	<br>
@@ -72,6 +72,9 @@
 
 ## Haskell
  - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
+
+## Shell
+ - [dock](https://github.com/bripkens/dock) ★206
 
 ## Contribute
 Fork, Branch, Pull and 🍺.
