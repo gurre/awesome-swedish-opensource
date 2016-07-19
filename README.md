@@ -23,6 +23,7 @@
 - [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
+- [brand-colors](https://github.com/reimertz/brand-colors) ★525
 
 ## Java
  - [Neo4j](https://github.com/neo4j/neo4j) ★2,797
