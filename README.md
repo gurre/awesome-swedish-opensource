@@ -42,6 +42,7 @@
 ## C
  - [Curl](https://github.com/curl/curl) ★3,267
  - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
+ - [Heimdal](https://github.com/heimdal/heimdal) ★79
  - [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
 
 ## C#  
@@ -65,14 +66,15 @@
  - [Locust](https://github.com/locustio/locust) ★3,766
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
+## Haskell
+ - [Haste](https://github.com/valderman/haste-compiler) ★1,086
+ - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
+
 ## Rust
  - [Rustful](https://github.com/Ogeon/rustful) ★752
 
 ## Scala
  - [Akka](https://github.com/akka/akka) ★5,769
-
-## Haskell
- - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
 
 ## Shell
  - [dock](https://github.com/bripkens/dock) ★206
