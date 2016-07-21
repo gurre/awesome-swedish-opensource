@@ -44,6 +44,7 @@
  - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
  - [Heimdal](https://github.com/heimdal/heimdal) ★79
  - [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
+ - [libmtp](http://libmtp.sourceforge.net/) ★n/a
 
 ## C#  
  - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
