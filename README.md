@@ -8,6 +8,9 @@
 
 # Awesome, Swedish and Open-source
 
+## Web projects
+- [Hitta skyddsrum](https://github.com/hitta-skyddsrum) - [HittaSkyddsrum.se](https://www.hittaskyddsrum.se/)
+
 ## Javascript
 
 - [Reveal.js](https://github.com/hakimel/reveal.js) ★29,259
