@@ -64,6 +64,7 @@
 - [LFE](https://github.com/rvirding/lfe) ★1,296
 
 ## Python
+ - [Enkelt](https://github.com/Buscedv/Enkelt) ★3
  - [Locust](https://github.com/locustio/locust) ★3,766
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
 
