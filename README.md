@@ -9,7 +9,7 @@
 # Awesome, Swedish and Open-source
 
 ## Web projects
-- [Hitta skyddsrum](https://github.com/hitta-skyddsrum) - [HittaSkyddsrum.se](https://www.hittaskyddsrum.se/)
+- [Hitta skyddsrum](https://github.com/hitta-skyddsrum/webclient-preact) - [HittaSkyddsrum.se](https://www.hittaskyddsrum.se/)
 
 ## Javascript
 
