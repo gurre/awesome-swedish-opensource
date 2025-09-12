@@ -67,6 +67,7 @@
  - [Enkelt](https://github.com/Buscedv/Enkelt) ★3
  - [Locust](https://github.com/locustio/locust) ★3,766
  - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
+ - [BlocketAPI](https://github.com/dunderrrrrr/blocket_api) ★16
 
 ## Haskell
  - [Haste](https://github.com/valderman/haste-compiler) ★1,086
