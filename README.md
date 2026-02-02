@@ -10,80 +10,80 @@
 
 ## Javascript
 
-- [Reveal.js](https://github.com/hakimel/reveal.js) ★29,259
-- [SweetAlert](https://github.com/t4t5/sweetalert) ★13,799
-- [SpinKit](https://github.com/tobiasahlin/SpinKit) ★11,560
-- [Grafana](https://github.com/grafana/grafana) ★10,812
-- [List.js](https://github.com/javve/list.js) ★6,911
-- [Ladda](https://github.com/hakimel/Ladda) ★6,379
-- [RefluxJS](https://github.com/reflux/refluxjs) ★4,888
-- [snabbt.js](https://github.com/daniel-lundin/snabbt.js) ★4,803
-- [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★2,814
-- [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2,178
-- [Doppler](https://github.com/DanielRapp/doppler) ★2,122
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
-- [brand-colors](https://github.com/reimertz/brand-colors) ★525
-- [@kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) ★325
-- [react-native-health-connect](https://github.com/matinzd/react-native-health-connect) ★295
-- [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable) ★208
-- [react-native-device-activity](https://github.com/kingstinct/react-native-device-activity) ★51
+- [Grafana](https://github.com/grafana/grafana) ★71,977
+- [Reveal.js](https://github.com/hakimel/reveal.js) ★70,502
+- [SweetAlert](https://github.com/t4t5/sweetalert) ★22,357
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) ★19,387
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★17,820
+- [List.js](https://github.com/javve/list.js) ★11,249
+- [Ladda](https://github.com/hakimel/Ladda) ★7,806
+- [RefluxJS](https://github.com/reflux/refluxjs) ★5,337
+- [snabbt.js](https://github.com/daniel-lundin/snabbt.js) ★5,183
+- [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) ★3,582
+- [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable) ★2,510
+- [Doppler](https://github.com/DanielRapp/doppler) ★2,391
+- [brand-colors](https://github.com/reimertz/brand-colors) ★784
+- [@kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) ★600
+- [react-native-health-connect](https://github.com/matinzd/react-native-health-connect) ★373
+- [react-native-device-activity](https://github.com/kingstinct/react-native-device-activity) ★127
+- [Algorithms.js](https://github.com/felipernb/algorithms.js) ★2
 
 ## Java
- - [Neo4j](https://github.com/neo4j/neo4j) ★2,797
- - [REST-assured](https://github.com/rest-assured/rest-assured) ★1,268
- - [PowerMock](https://github.com/jayway/powermock) ★706
- - [Speedment](https://github.com/speedment/speedment) ★556
- - [Awaitility](https://github.com/awaitility/awaitility) ★350
- - [Artemis-odb](https://github.com/junkdog/artemis-odb) ★265
+ - [Neo4j](https://github.com/neo4j/neo4j) ★15,815
+ - [REST-assured](https://github.com/rest-assured/rest-assured) ★7,110
+ - [PowerMock](https://github.com/jayway/powermock) ★4,187
+ - [Awaitility](https://github.com/awaitility/awaitility) ★3,987
+ - [Speedment](https://github.com/speedment/speedment) ★2,097
+ - [Artemis-odb](https://github.com/junkdog/artemis-odb) ★825
 
 ## C++
- - [PPSSPP](https://github.com/hrydgard/ppsspp) ★2,391
- - [MySQL](https://github.com/mysql/mysql-server) ★1,091
- - [MariaDB](https://github.com/MariaDB/server) ★917
- - [BROCCOLI](https://github.com/wanderine/BROCCOLI) ★59
+ - [PPSSPP](https://github.com/hrydgard/ppsspp) ★13,279
+ - [MySQL](https://github.com/mysql/mysql-server) ★12,037
+ - [MariaDB](https://github.com/MariaDB/server) ★7,099
+ - [BROCCOLI](https://github.com/wanderine/BROCCOLI) ★117
 
 ## C
- - [Curl](https://github.com/curl/curl) ★3,267
- - [esp-lisp](https://github.com/yesco/esp-lisp) ★55
- - [Heimdal](https://github.com/heimdal/heimdal) ★79
+ - [Curl](https://github.com/curl/curl) ★40,586
+ - [Heimdal](https://github.com/heimdal/heimdal) ★362
+ - [esp-lisp](https://github.com/yesco/esp-lisp) ★264
  - [Admire](http://www.foi.se/en/Our-Knowledge/Aeronautics/Admire/) ★n/a
  - [libmtp](http://libmtp.sourceforge.net/) ★n/a
 
-## C#  
- - [Nancy](https://github.com/NancyFx/Nancy) ★4,214
- - [Cake](https://github.com/cake-build/cake/) ★678
- - [OrigoDB](https://github.com/devrexlabs/origodb) ★81
+## C#
+ - [Nancy](https://github.com/NancyFx/Nancy) ★7,125
+ - [Cake](https://github.com/cake-build/cake/) ★4,153
+ - [OrigoDB](https://github.com/devrexlabs/origodb) ★139
 
 ## Go
- - [SyncThing](https://github.com/syncthing/syncthing) ★12,800
- - [Jason](https://github.com/antonholmquist/jason) ★897
+ - [SyncThing](https://github.com/syncthing/syncthing) ★79,545
+ - [Jason](https://github.com/antonholmquist/jason) ★1,139
 
 ## Ruby
-- [Capybara](https://github.com/jnicklas/capybara) ★7,159
-- [Pundit](https://github.com/elabs/pundit) ★4,428
+- [Capybara](https://github.com/jnicklas/capybara) ★10,142
+- [Pundit](https://github.com/elabs/pundit) ★8,476
 
 ## Erlang
-- [Erlang](https://github.com/erlang/otp) ★4,735
-- [LFE](https://github.com/rvirding/lfe) ★1,296
+- [Erlang](https://github.com/erlang/otp) ★12,018
+- [LFE](https://github.com/rvirding/lfe) ★2,410
 
 ## Python
+ - [Locust](https://github.com/locustio/locust) ★27,431
+ - [PlainTasks](https://github.com/aziz/PlainTasks) ★3,290
+ - [BlocketAPI](https://github.com/dunderrrrrr/blocket_api) ★25
  - [Enkelt](https://github.com/Buscedv/Enkelt) ★3
- - [Locust](https://github.com/locustio/locust) ★3,766
- - [PlainTasks](https://github.com/aziz/PlainTasks) ★2,343
- - [BlocketAPI](https://github.com/dunderrrrrr/blocket_api) ★16
 
 ## Haskell
- - [Haste](https://github.com/valderman/haste-compiler) ★1,086
- - [QuickCheck](https://github.com/nick8325/quickcheck) ★212
+ - [Haste](https://github.com/valderman/haste-compiler) ★1,544
+ - [QuickCheck](https://github.com/nick8325/quickcheck) ★773
 
 ## Rust
- - [Rustful](https://github.com/Ogeon/rustful) ★752
+ - [Rustful](https://github.com/Ogeon/rustful) ★858
 
 ## Scala
- - [Akka](https://github.com/akka/akka) ★5,769
+ - [Akka](https://github.com/akka/akka) ★13,263
 
 ## Shell
- - [dock](https://github.com/bripkens/dock) ★206
+ - [dock](https://github.com/bripkens/dock) ★218
 
 ## Contribute
 Fork, Branch, Pull and 🍺.
